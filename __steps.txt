@@ -1,0 +1,19 @@
+/*
+1. create a project in console.firebase.google.com
+2. reg app from firebase
+3. install firebase in vscode
+4. create firebaseinit.js 
+5. import auth from firebase/auth in the firebaseinit.js and make it as default
+6. Firebase Settings>Authenitcation> signinmethod> Email/Password Enable
+
+*/
+
+
+/*
+Hosting step
+1. install firebase Hosting
+2. install firebaseinit
+3. install ....
+4
+
+*/
